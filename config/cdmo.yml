@@ -1,0 +1,9 @@
+# PURL configuration for http://purl.obolibrary.org/obo/cdmo
+
+idspace: CDMO
+base_url: /obo/cdmo
+
+products:
+- cido.owl: https://raw.githubusercontent.com/TODO/cdmo/main/src/ontology/cdmo.owl
+
+term_browser: ontobee
